@@ -11,7 +11,6 @@ Atualmente, estou me dedicando ao estudo e o aprendizado de Python 🐍 e explor
 - 😄 Pronomes: ela/dela
 - 💡 Objetivo: compartilhar projetos
 
-
 <!-- Ícone/Badge do Python -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 
