@@ -3,7 +3,7 @@
 
 # Eu me chamo Yasmim 👋
 Sou apaixonada por tecnologia e estou sempre em busca de aprender algo novo.  
-Atualmente, estou me dedicando ao estudo e o aprendizado de Python 🐍 e explorando como usar essa linguagem.
+Python, C#, CSS, JavaScript, SQL, HTML.
 
 # Sobre mim
 - 🎯 Interesses: programação, Inteligência Artificial (IA)
@@ -14,9 +14,18 @@ Atualmente, estou me dedicando ao estudo e o aprendizado de Python 🐍 e explor
 <!-- Ícone/Badge do Python -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 
-
-  
-         
-
-  
-
+# COMPETÊNCIAS
+•	Fundamentos de redes
+•	Tipos de redes
+•	Crimpar
+•	Tipos de cabo
+•	Inglês técnico, leitura e interpretação de texto em inglês, escrita
+•	Aplicativos computacionais
+•	IA
+•	Normas ABMT
+•	Pacote office: Word, Excel, Power point
+•	Design Canva 
+•	Visual Studio 2022/2026
+•	Visual Studio Code 
+•	Github 
+•	Lógica de programação
