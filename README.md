@@ -36,3 +36,4 @@ Python, C#, CSS, JavaScript, SQL, HTML.
 - Visual Studio Code 
 - Github 
 - Lógica de programação
+- MySQL
