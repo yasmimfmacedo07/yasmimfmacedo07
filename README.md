@@ -28,7 +28,7 @@ Python, C#, CSS, JavaScript, SQL, HTML.
 - Tipos de cabo
 - Inglês técnico, leitura e interpretação de texto em inglês, escrita
 - Aplicativos computacionais
-- IA
+- IA: Copilot, ChatGPT, Gemini, NotebookLM
 - Normas ABMT
 - Pacote office: Word, Excel, Power point
 - Design Canva 
