@@ -1,7 +1,7 @@
 # Eu me chamo Yasmim 👋
-Olá, seja bem-vindo(a)! 
-Sou apaixonada por tecnologia e estou sempre em busca de aprender algo novo.  
-Python, C#, CSS, JavaScript, SQL, HTML.
+- Olá, seja bem-vindo(a)! 
+- Sou apaixonada por tecnologia e estou sempre em busca de aprender algo novo.  
+- Python, C#, CSS, JavaScript, SQL, HTML.
 
 # Sobre mim
 - 🎯 Interesses: programação, Inteligência Artificial (IA)
