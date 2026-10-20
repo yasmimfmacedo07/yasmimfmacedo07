@@ -29,7 +29,7 @@ Python, C#, CSS, JavaScript, SQL, HTML.
 - Inglês técnico, leitura e interpretação de texto em inglês, escrita
 - Aplicativos computacionais
 - IA: Copilot, ChatGPT, Gemini, NotebookLM
-- Normas ABMT
+- Normas ABNT
 - Pacote office: Word, Excel, Power point
 - Design Canva 
 - Visual Studio 2022/2026
