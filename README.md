@@ -1,5 +1,4 @@
 # Olá, seja bem-vindo(a)! 
-<img width="200" height="200" alt="download20260303114557" src="https://github.com/user-attachments/assets/05f7f372-7674-4b40-b72e-e51b20e6b83b" />
 
 # Eu me chamo Yasmim 👋
 Sou apaixonada por tecnologia e estou sempre em busca de aprender algo novo.  
