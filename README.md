@@ -15,17 +15,17 @@ Python, C#, CSS, JavaScript, SQL, HTML.
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 
 # COMPETÊNCIAS
-•	Fundamentos de redes
-•	Tipos de redes
-•	Crimpar
-•	Tipos de cabo
-•	Inglês técnico, leitura e interpretação de texto em inglês, escrita
-•	Aplicativos computacionais
-•	IA
-•	Normas ABMT
-•	Pacote office: Word, Excel, Power point
-•	Design Canva 
-•	Visual Studio 2022/2026
-•	Visual Studio Code 
-•	Github 
-•	Lógica de programação
+- Fundamentos de redes
+- Tipos de redes
+- Crimpar
+- Tipos de cabo
+- Inglês técnico, leitura e interpretação de texto em inglês, escrita
+- Aplicativos computacionais
+- IA
+- Normas ABMT
+- Pacote office: Word, Excel, Power point
+- Design Canva 
+- Visual Studio 2022/2026
+- Visual Studio Code 
+- Github 
+- Lógica de programação
