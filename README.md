@@ -21,8 +21,8 @@
 
 # Estatísticas
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yasmimfmacedo07&show_icons=true&theme=radical&hide_border=true&title_color=FF4D9D&icon_color=FF4D9D&text_color=ffffff&bg_color=0d1117" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasmimfmacedo07&layout=compact&theme=radical&hide_border=true&title_color=FF4D9D&text_color=ffffff&bg_color=0d1117" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yasmimfmacedo07&show_icons=true&theme=radical&hide_border=true&title_color=FF4D9D&icon_color=FF4D9D&text_color=ffffff&bg_color=0d1117" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasmimfmacedo07&layout=compact&theme=radical&hide_border=true&title_color=FF4D9D&text_color=ffffff&bg_color=0d1117" />
 </div>
 
 # COMPETÊNCIAS
@@ -41,3 +41,11 @@
 - Github 
 - Lógica de programação
 - MySQL
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yasmimfmacedo07/yasmimfmacedo07/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yasmimfmacedo07/yasmimfmacedo07/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/yasmimfmacedo07/yasmimfmacedo07/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
