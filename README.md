@@ -20,55 +20,9 @@
 </div>
 
 # Estatísticas
-<div style="max-width: 600px; background: #1b1b2d; border-radius: 16px; padding: 20px 22px; color: #fff; font-family: Arial, sans-serif; box-shadow: 0 8px 18px rgba(0,0,0,0.25);">
-  <h3 style="margin: 0 0 16px; font-size: 26px; font-weight: 700; color: #f4f4f4;">Most Used Languages</h3>
-
-  <div style="display: flex; height: 12px; border-radius: 999px; overflow: hidden; background: #2b2b40; margin-bottom: 16px;">
-    <span style="display:block; width: 32%; background: #ff7a59;"></span>
-    <span style="display:block; width: 18%; background: #007acc;"></span>
-    <span style="display:block; width: 16%; background: #563d7c;"></span>
-    <span style="display:block; width: 17%; background: #f0db4f;"></span>
-    <span style="display:block; width: 10%; background: #336791;"></span>
-    <span style="display:block; width: 7%; background: #e34f26;"></span>
-  </div>
-
-  <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 8px 18px; font-size: 14px;">
-    <div style="display: flex; align-items: center; gap: 8px;">
-      <span style="width: 12px; height: 12px; border-radius: 50%; background: #ff7a59; display: inline-block;"></span>
-      <span>Python</span>
-      <span style="margin-left: auto; color: #d9d9d9;">32%</span>
-    </div>
-
-    <div style="display: flex; align-items: center; gap: 8px;">
-      <span style="width: 12px; height: 12px; border-radius: 50%; background: #007acc; display: inline-block;"></span>
-      <span>C#</span>
-      <span style="margin-left: auto; color: #d9d9d9;">18%</span>
-    </div>
-
-    <div style="display: flex; align-items: center; gap: 8px;">
-      <span style="width: 12px; height: 12px; border-radius: 50%; background: #563d7c; display: inline-block;"></span>
-      <span>CSS</span>
-      <span style="margin-left: auto; color: #d9d9d9;">16%</span>
-    </div>
-
-    <div style="display: flex; align-items: center; gap: 8px;">
-      <span style="width: 12px; height: 12px; border-radius: 50%; background: #f0db4f; display: inline-block;"></span>
-      <span>JavaScript</span>
-      <span style="margin-left: auto; color: #d9d9d9;">17%</span>
-    </div>
-
-    <div style="display: flex; align-items: center; gap: 8px;">
-      <span style="width: 12px; height: 12px; border-radius: 50%; background: #336791; display: inline-block;"></span>
-      <span>SQL</span>
-      <span style="margin-left: auto; color: #d9d9d9;">10%</span>
-    </div>
-
-    <div style="display: flex; align-items: center; gap: 8px;">
-      <span style="width: 12px; height: 12px; border-radius: 50%; background: #e34f26; display: inline-block;"></span>
-      <span>HTML</span>
-      <span style="margin-left: auto; color: #d9d9d9;">7%</span>
-    </div>
-  </div>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yasmimfmacedo07&show_icons=true&theme=radical&hide_border=true&title_color=FF4D9D&icon_color=FF4D9D&text_color=ffffff&bg_color=0d1117" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasmimfmacedo07&layout=compact&theme=radical&hide_border=true&title_color=FF4D9D&text_color=ffffff&bg_color=0d1117&langs_count=6" />
 </div>
 
 # COMPETÊNCIAS
