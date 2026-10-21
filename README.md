@@ -25,11 +25,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasmimfmacedo07&layout=compact&theme=radical&hide_border=true&title_color=FF4D9D&text_color=ffffff&bg_color=0d1117" alt="Top Languages"/>
 </div>
 
-# Contribuições
-<p align="center">
-  <img src="https://raw.githubusercontent.com/yasmimfmacedo07/yasmimfmacedo07/output/github-contribution-grid-snake.svg" alt="Animação da cobra das contribuições" />
-</p>
-
 # COMPETÊNCIAS
 - Fundamentos de redes
 - Tipos de redes
