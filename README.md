@@ -20,7 +20,8 @@
 </div>
 
 
-<h3 align="center">📊 Minhas Estatísticas no GitHub</h3>
+<h3 align="center">
+📊 Minhas Estatísticas no GitHub</h3>
 
 </div>
 
