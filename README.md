@@ -21,10 +21,15 @@
 
 </div>
 
-  <!-- GitHub Streak Atualizado -->
-  <img src="https://streak-stats.demolab.com/?user=yasmimfmacedo07&theme=radical" alt="GitHub Streak" />
+<div align="center">
+
+  <img
+    src="https://streak-stats.demolab.com/?user=yasmimfmacedo07&theme=radical&hide_border=true"
+    alt="GitHub Streak"
+  />
 
 </div>
+
 
 # COMPETÊNCIAS
 - Fundamentos de redes
