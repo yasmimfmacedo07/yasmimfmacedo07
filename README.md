@@ -19,6 +19,10 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
 </div>
 
+[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=seu-usuario&theme=radical)](https://git.io/streak-stats)
+
 # COMPETÊNCIAS
 - Fundamentos de redes
 - Tipos de redes
