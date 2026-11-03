@@ -24,10 +24,10 @@
 <div align="center">
 
   <!-- Card de Estatísticas Gerais -->
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=yasmimfmacedo07&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=yasmimfmacedo07&show_icons=true&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
   
   <!-- Card das Linguagens Mais Usadas -->
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yasmimfmacedo07&layout=compact&theme=radical&hide=html" alt="Linguagens mais usadas" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yasmimfmacedo07&layout=compact" alt="Linguagens mais usadas" />
 
   <br/><br/>
 
