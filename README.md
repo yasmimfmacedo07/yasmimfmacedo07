@@ -19,9 +19,22 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
 </div>
 
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=yasmimfmacedo07&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=yasmimfmacedo07&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yasmimfmacedo07&theme=radical)](https://git.io/streak-stats)
+### 📊 Minhas Estatísticas no GitHub
+
+<div align="center">
+
+  <!-- Card de Estatísticas Gerais -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yasmimfmacedo07&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+
+  <!-- Card das Linguagens Mais Usadas -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasmimfmacedo07&layout=compact&theme=radical&hide=html" alt="Linguagens mais usadas" />
+
+  <br/><br/>
+
+  <!-- GitHub Streak Atualizado -->
+  <img src="https://streak-stats.demolab.com/?user=yasmimfmacedo07&theme=radical" alt="GitHub Streak" />
+
+</div>
 
 # COMPETÊNCIAS
 - Fundamentos de redes
