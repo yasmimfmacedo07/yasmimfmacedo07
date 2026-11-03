@@ -21,8 +21,6 @@
 
 </div>
 
-<div align="center">
-
   <img
     src="https://streak-stats.demolab.com/?user=yasmimfmacedo07&theme=radical&hide_border=true"
     alt="GitHub Streak"
