@@ -24,24 +24,18 @@
 
 <div align="center">
 
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=yasmimfmacedo07&show_icons=true&theme=radical&hide_border=true"
-    alt="Estatísticas do GitHub"
-  />
+  <!-- Estatísticas Gerais em servidor alternativo -->
+  <img height="180em" src="https://github-readme-stats.anuraghazra.live/api?username=yasmimfmacedo07&show_icons=true" alt="Estatísticas do GitHub" />
+  
+  <!-- Linguagens Mais Usadas em servidor alternativo -->
+  <img height="180em" src="https://github-readme-stats.anuraghazra.live/api/top-langs/?username=yasmimfmacedo07&layout=compact" alt="Linguagens mais usadas" />
 
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasmimfmacedo07&layout=compact&theme=radical&hide_border=true"
-    alt="Linguagens mais usadas"
-  />
+  <br/><br/>
 
-  <br/>
+</div>
 
-  <img
-    src="https://streak-stats.demolab.com/?user=yasmimfmacedo07&theme=radical&hide_border=true"
-    alt="GitHub Streak"
-  />
+  <!-- GitHub Streak Atualizado -->
+  <img src="https://streak-stats.demolab.com/?user=yasmimfmacedo07&theme=radical" alt="GitHub Streak" />
 
 </div>
 
