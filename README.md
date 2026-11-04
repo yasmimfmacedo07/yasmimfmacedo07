@@ -28,13 +28,7 @@
 
 ## 🔥 Minha sequência de contribuições
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=yasmimfmacedo07&theme=sakura)](https://git.io/streak-stats)
-
-## 🏆 Minhas Conquistas
-
-![yasmimfmacedo07 trophies](https://github-profile-trophy.vercel.app/?username=yasmimfmacedo07&theme=flat&row=1&column=2&no-frame=true)
-
-
+https://github-readme-streak-stats.herokuapp.com?user=yasmimfmacedo07&theme=cobalt
 
 
 # COMPETÊNCIAS
