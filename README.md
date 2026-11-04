@@ -28,7 +28,7 @@
 
 ## 🔥 Minha sequência de contribuições
 
-![GitHub Streak](https://streak-stats.demolab.com?user=yasmimfmacedo07&theme=tokyonight)
+[![GitHub Streak](https://streak-stats.demolab.com?user=yasmimfmacedo07&theme=sakura)](https://git.io/streak-stats)
 
 ## 🏆 Minhas Conquistas
 
