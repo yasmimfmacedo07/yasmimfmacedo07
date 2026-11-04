@@ -21,7 +21,7 @@
 
 ## 📊 Minhas Estatísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yasmimfmacedo07&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+![GitHub Stats Card](https://ghstats.dev/api/card?username=yasmimfmacedo07&theme=sakura&border_radius=5.5)
 
 ![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=yasmimfmacedo07&theme=light)
 
