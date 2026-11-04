@@ -32,7 +32,7 @@
 
 ## 🏆 Minhas Conquistas
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=yasmimfmacedo07&theme=tokyonight&row=1&column=6)
+![yasmimfmacedo07 trophies](https://github-profile-trophy.vercel.app/?username=yasmimfmacedo07&theme=flat&row=1&column=2&no-frame=true)
 
 
 
