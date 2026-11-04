@@ -23,7 +23,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yasmimfmacedo07&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
 
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=yasmimfmacedo07&layout=compact&theme=tokyonight)
+![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=yasmimfmacedo07&theme=light)
 
 ## 🔥 Minha sequência de contribuições
 
