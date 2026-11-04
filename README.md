@@ -29,6 +29,7 @@
 ## 🔥 Minha sequência de contribuições
 
 [![GitHub Streak](https://gh-streak-stats.vercel.app/?user=yasmimfmacedo07&theme=sakura)](https://git.io/streak-stats)
+[![GitHub Streak](https://gh-streak-stats.vercel.app?user=yasmimfmacedo07&hide_border=falso)](https://git.io/streak-stats)
 
 
 # COMPETÊNCIAS
