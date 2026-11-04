@@ -23,7 +23,8 @@
 
 ![GitHub Stats Card](https://ghstats.dev/api/card?username=yasmimfmacedo07&theme=sakura&border_radius=5.5)
 
-![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=yasmimfmacedo07&theme=light)
+# Linguagens 
+![Top Languages](https://ghstats.dev/api/langs?username=yasmimfmacedo07&theme=sakura&max_langs=12&layout=vertical_list)
 
 ## 🔥 Minha sequência de contribuições
 
