@@ -21,6 +21,8 @@
 
 </div>
 
+# Estatísticas
+[![GitHub Stats](https://github-readme-stats-vercel.zcy.dev/api?username=yasmimfmacedo07&custom_title=Minhas%20estat%C3%ADsticas%20no%20GitHub&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=radical)](https://github-readme-stats-vercel.zcy.dev/api?username=yasmimfmacedo07&custom_title=Minhas%20estat%C3%ADsticas%20no%20GitHub&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=radical)
   <img
     src="https://streak-stats.demolab.com/?user=yasmimfmacedo07&theme=radical&hide_border=true"
     alt="GitHub Streak"
