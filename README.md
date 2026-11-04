@@ -28,7 +28,7 @@
 
 ## 🔥 Minha sequência de contribuições
 
-https://github-readme-streak-stats.herokuapp.com?user=yasmimfmacedo07&theme=cobalt
+[![GitHub Streak](https://gh-streak-stats.vercel.app/?user=yasmimfmacedo07&theme=sakura)](https://git.io/streak-stats)
 
 
 # COMPETÊNCIAS
