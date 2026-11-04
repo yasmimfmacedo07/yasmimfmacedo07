@@ -19,9 +19,7 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
 </div>
 
-</div>
-
-  ## 📊 Minhas Estatísticas
+## 📊 Minhas Estatísticas
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yasmimfmacedo07&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
 
@@ -35,7 +33,7 @@
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=yasmimfmacedo07&theme=tokyonight&row=1&column=6)
 
-</div>
+
 
 
 # COMPETÊNCIAS
