@@ -23,12 +23,12 @@
 
 ![GitHub Stats Card](https://ghstats.dev/api/card?username=yasmimfmacedo07&theme=sakura&border_radius=5.5)
 
-# Linguagens 
+## Linguagens 
 ![Top Languages](https://ghstats.dev/api/langs?username=yasmimfmacedo07&theme=sakura&max_langs=12&layout=vertical_list)
 
 ## 🔥 Minha sequência de contribuições
 
-[![GitHub Streak](https://gh-streak-stats.vercel.app/?user=yasmimfmacedo07&theme=sakura)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=yasmimfmacedo07&theme=sakura)](https://git.io/streak-stats)
 
 ## 🏆 Minhas Conquistas
 
