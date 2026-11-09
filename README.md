@@ -26,6 +26,12 @@
 ## Linguagens 
 ![Top Languages](https://ghstats.dev/api/langs?username=yasmimfmacedo07&theme=sakura&max_langs=12&layout=vertical_list)
 
+## Contribuições
+<h2>🔥 My Stats</h2>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=yasmimfmacedo07&theme=orange&hide_border=false" />
+</div>
 
 # COMPETÊNCIAS
 - Fundamentos de redes
