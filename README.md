@@ -32,12 +32,6 @@
   <img src="https://streak-stats.demolab.com/?user=yasmimfmacedo07&theme=orange&hide_border=false" />
 </div>
 
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=yasmimfmacedo07&theme=sakura&column=4" alt="Troféus GitHub" />
-  </a>
-</div>
-
 # COMPETÊNCIAS
 - Fundamentos de redes
 - Tipos de redes
