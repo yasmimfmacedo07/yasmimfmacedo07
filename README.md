@@ -69,7 +69,7 @@
 
 * MySQL
 
-  ### 🤖 IA: Copilot, ChatGPT, Gemini, NotebookLM
+### IA: Copilot, ChatGPT, Gemini, NotebookLM
 <div data-importer="techs" align="left">
   <img src="https://cdn.simpleicons.org/githubcopilot?viewbox=auto" height="40" alt="GitHub Copilot logo" />
   <img width="12" />
@@ -89,7 +89,7 @@
   <img src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white" height="40" alt="Microsoft PowerPoint logo" />
 </div>
 
-### 🎨 Design & Ambientes de Desenvolvimento
+### Design & Ambientes de Desenvolvimento
 - **Design:** Canva
 - **Ambientes:** Visual Studio 2022/2026 e Visual Studio Code
 <div data-importer="techs" align="left">
@@ -99,7 +99,7 @@
 
  - Visual Studio 2022/2026 e Visual Studio Code
 <div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-original.svg" height="40" alt="Visual Studio logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-original.svg" height="12" alt="Visual Studio logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="Visual Studio Code logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="12" alt="Visual Studio Code logo" />
 </div>
