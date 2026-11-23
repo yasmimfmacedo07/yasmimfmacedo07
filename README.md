@@ -38,11 +38,18 @@
 </div>
 
 # COMPETÊNCIAS
+- IA: Copilot, ChatGPT, Gemini, NotebookLM
+<img src="https://cdn.simpleicons.org/githubcopilot?viewbox=auto" alt="GitHub Copilot" />
+<img src="https://cdn.simpleicons.org/googlegemini?viewbox=auto" alt="Google Gemini" />
+<img src="https://cdn.simpleicons.org/notebooklm?viewbox=auto" alt="NotebookLM" />
+<img class="i-selfhst-chatgpt" role="img" aria-hidden="true"></img>
+
+
+          
 - Fundamentos de redes
 - Tipos de redes
 - Inglês técnico, leitura e interpretação de texto em inglês, escrita
 - Aplicativos computacionais
-- IA: Copilot, ChatGPT, Gemini, NotebookLM
 - Normas ABNT
 - Pacote office: Word, Excel, Power point
 - Design Canva 
@@ -50,6 +57,6 @@
 - Visual Studio Code 
 - Github 
 - Lógica de programação
-- MySQL
+
 
 
