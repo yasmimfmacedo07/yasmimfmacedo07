@@ -34,8 +34,6 @@
 # COMPETÊNCIAS
 - Fundamentos de redes
 - Tipos de redes
-- Crimpar
-- Tipos de cabo
 - Inglês técnico, leitura e interpretação de texto em inglês, escrita
 - Aplicativos computacionais
 - IA: Copilot, ChatGPT, Gemini, NotebookLM
