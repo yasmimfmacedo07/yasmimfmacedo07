@@ -39,6 +39,7 @@
 
 # COMPETÊNCIAS
 - Normas ABNT
+- Idiomas: Inglês técnico, leitura e interpretação de texto em inglês e escrita
 
 - IA: Copilot, ChatGPT, Gemini, NotebookLM
 <div data-importer="techs" align="left">
@@ -50,16 +51,7 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/notebooklm?viewbox=auto" height="40" alt="NotebookLM logo" />      
 </div>
-
-- Idiomas: Inglês técnico, leitura e interpretação de texto em inglês e escrita
-<div data-importer="techs" align="left">
-  <img src="https://iconify.design" alt="Inglês Técnico" width="12" height="12" />
-  <img width="12" />
-  <img src="https://iconify.design" alt="Leitura e Interpretação de Texto" width="12" height="12" />
-  <img width="12" />
-  <img src="https://iconify.design" alt="Escrita em Inglês" width="12" height="12" />
-</div>
-  
+ 
 - Pacote office: Word, Excel, Power point
 <div data-importer="techs" align="left">
   <img src="https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white" height="40" alt="Microsoft Word logo" />
