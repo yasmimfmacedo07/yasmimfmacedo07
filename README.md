@@ -38,25 +38,65 @@
 </div>
 
 # COMPETÊNCIAS
-- IA: Copilot, ChatGPT, Gemini, NotebookLM
-<img src="https://cdn.simpleicons.org/githubcopilot?viewbox=auto" alt="GitHub Copilot" />
-<img src="https://cdn.simpleicons.org/googlegemini?viewbox=auto" alt="Google Gemini" />
-<img src="https://cdn.simpleicons.org/notebooklm?viewbox=auto" alt="NotebookLM" />
-<img class="i-selfhst-chatgpt" role="img" aria-hidden="true"></img>
-
-
-          
-- Fundamentos de redes
-- Tipos de redes
-- Inglês técnico, leitura e interpretação de texto em inglês, escrita
-- Aplicativos computacionais
+  
 - Normas ABNT
+  
+- IA: Copilot, ChatGPT, Gemini, NotebookLM
+<div data-importer="techs" align="left">
+  <img src="https://cdn.simpleicons.org/githubcopilot?viewbox=auto" height="40" alt="GitHub Copilot logo" />
+  <img width="12" />
+  <img src="https://devicons.io/devicons/icons/openai-icon.svg" height="40" alt="ChatGPT logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/googlegemini?viewbox=auto" height="40" alt="Google Gemini logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/notebooklm?viewbox=auto" height="40" alt="NotebookLM logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg" />          
+</div>
+
+- Idiomas: Inglês técnico, leitura e interpretação de texto em inglês e escrita
+<div data-importer="techs" align="left">
+  <img src="https://iconify.design" alt="Inglês Técnico" width="12" height="12" />
+  <img width="12" />
+  <img src="https://iconify.design" alt="Leitura e Interpretação de Texto" width="12" height="12" />
+  <img width="12" />
+  <img src="https://iconify.design" alt="Escrita em Inglês" width="12" height="12" />
+</div>
+  
+- Normas ABNT
+<div data-importer="techs" align="left">
+  <img src="https://iconify.design" alt="Normas ABNT" width="12" height="12" />
+  <img width="12" />
+</div>
+
 - Pacote office: Word, Excel, Power point
-- Design Canva 
+<div data-importer="techs" align="left">
+  <img src="https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white" height="40" alt="Microsoft Word logo" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" height="40" alt="Microsoft Excel logo" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white" height="40" alt="Microsoft PowerPoint logo" />
+</div>
+
+- Design: Canva
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="Canva logo" />
+  <img width="12" />
+</div>
+
+- Ambientes de desenvolvimento
 - Visual Studio 2022/2026
-- Visual Studio Code 
-- Github 
-- Lógica de programação
+
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-original.svg" height="40" alt="Visual Studio logo" />
+  <img width="12" />
+</div>
+
+- Visual Studio Code
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="Visual Studio Code logo" />
+  <img width="12" />
+</div>
+
 
 
 
