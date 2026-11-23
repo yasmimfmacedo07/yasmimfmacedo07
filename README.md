@@ -20,10 +20,10 @@
 </div>
 
 ## 📊 Minhas Estatísticas
-https://github-readme-stats.vercel.app/api?username=yasmimfmacedo07
+![Cartão de estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=yasmimfmacedo07)
 
 ## Linguagens 
-https://github-readme-stats.vercel.app/api/top-langs/?username=yasmimfmacedo07
+![Principais linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=yasmimfmacedo07)
 
 <h2>🔥 My Stats</h2>
 
