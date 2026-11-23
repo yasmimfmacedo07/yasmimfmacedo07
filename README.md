@@ -69,6 +69,38 @@
 
 * MySQL
 
+  ### 🤖 IA: Copilot, ChatGPT, Gemini, NotebookLM
+<div data-importer="techs" align="left">
+  <img src="https://cdn.simpleicons.org/githubcopilot?viewbox=auto" height="40" alt="GitHub Copilot logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/openai?viewbox=auto" height="40" alt="ChatGPT logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/googlegemini?viewbox=auto" height="40" alt="Google Gemini logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/notebooklm?viewbox=auto" height="40" alt="NotebookLM logo" />
+</div>
+
+### 📊 Pacote Office: Word, Excel, PowerPoint
+<div data-importer="techs" align="left">
+  <img src="https://img.shields.io/badge/Word-2B579A?style=flat-square&logo=microsoftword&logoColor=white" height="28" alt="Microsoft Word" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" height="28" alt="Microsoft Excel" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/PowerPoint-B7472A?style=flat-square&logo=microsoftpowerpoint&logoColor=white" height="28" alt="Microsoft PowerPoint" />
+</div>
+
+### 🎨 Design & Ambientes de Desenvolvimento
+- **Design:** Canva
+- **Ambientes:** Visual Studio 2022/2026 e Visual Studio Code
+
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="Canva logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-original.svg" height="40" alt="Visual Studio logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="Visual Studio Code logo" />
+</div>
+
 # IA: Copilot, ChatGPT, Gemini, NotebookLM
 <div data-importer="techs" align="left">
   <img src="https://cdn.simpleicons.org/githubcopilot?viewbox=auto" height="40" alt="GitHub Copilot logo" />
