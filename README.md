@@ -38,6 +38,7 @@
 </div>
 
 # COMPETÊNCIAS
+- Normas ABNT
 
 - IA: Copilot, ChatGPT, Gemini, NotebookLM
 <div data-importer="techs" align="left">
@@ -59,12 +60,6 @@
   <img src="https://iconify.design" alt="Escrita em Inglês" width="12" height="12" />
 </div>
   
-- Normas ABNT
-<div data-importer="techs" align="left">
-  <img src="https://iconify.design" alt="Normas ABNT" width="12" height="12" />
-  <img width="12" />
-</div>
-
 - Pacote office: Word, Excel, Power point
 <div data-importer="techs" align="left">
   <img src="https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white" height="40" alt="Microsoft Word logo" />
@@ -81,19 +76,14 @@
 </div>
 
 - Ambientes de desenvolvimento
-- Visual Studio 2022/2026
-
+  Visual Studio 2022/2026
 <div data-importer="techs" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-original.svg" height="40" alt="Visual Studio logo" />
   <img width="12" />
 </div>
 
-- Visual Studio Code
+ Visual Studio Code
 <div data-importer="techs" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="Visual Studio Code logo" />
   <img width="12" />
 </div>
-
-
-
-
