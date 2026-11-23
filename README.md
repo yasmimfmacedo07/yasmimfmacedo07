@@ -47,3 +47,7 @@
 - Github 
 - Lógica de programação
 - MySQL
+
+<img data-importer="snake" src="https://raw.githubusercontent.com/yasmimfmacedo07/yasmimfmacedo07/snake-output/snake.svg" alt="Snake animation" />
+
+###
