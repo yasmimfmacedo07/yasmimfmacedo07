@@ -20,11 +20,10 @@
 </div>
 
 ## 📊 Minhas Estatísticas
-
-![GitHub Stats Card](https://ghstats.dev/api/card?username=yasmimfmacedo07&theme=sakura&border_radius=5.5)
+https://github-readme-stats.vercel.app/api?username=yasmimfmacedo07
 
 ## Linguagens 
-![Top Languages](https://ghstats.dev/api/langs?username=yasmimfmacedo07&theme=sakura&max_langs=12&layout=vertical_list)
+https://github-readme-stats.vercel.app/api/top-langs/?username=yasmimfmacedo07
 
 <h2>🔥 My Stats</h2>
 
