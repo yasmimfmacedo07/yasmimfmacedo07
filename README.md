@@ -38,9 +38,7 @@
 </div>
 
 # COMPETÊNCIAS
-  
-- Normas ABNT
-  
+
 - IA: Copilot, ChatGPT, Gemini, NotebookLM
 <div data-importer="techs" align="left">
   <img src="https://cdn.simpleicons.org/githubcopilot?viewbox=auto" height="40" alt="GitHub Copilot logo" />
@@ -49,8 +47,7 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/googlegemini?viewbox=auto" height="40" alt="Google Gemini logo" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/notebooklm?viewbox=auto" height="40" alt="NotebookLM logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg" />          
+  <img src="https://cdn.simpleicons.org/notebooklm?viewbox=auto" height="40" alt="NotebookLM logo" />      
 </div>
 
 - Idiomas: Inglês técnico, leitura e interpretação de texto em inglês e escrita
