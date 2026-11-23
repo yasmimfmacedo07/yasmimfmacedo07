@@ -43,10 +43,6 @@
 
 * Tipos de redes
 
-* Crimpar
-
-* Tipos de cabo
-
 * Inglês técnico, leitura e interpretação de texto em inglês, escrito
 
 * Aplicativos computacionais
