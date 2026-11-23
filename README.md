@@ -38,8 +38,36 @@
 </div>
 
 # COMPETÊNCIAS
-- Normas ABNT
-- Idiomas: Inglês técnico, leitura e interpretação de texto em inglês e escrita
+
+* Fundamentos de redes
+
+* Tipos de redes
+
+* Crimpar
+
+* Tipos de cabo
+
+* Inglês técnico, leitura e interpretação de texto em inglês, escrito
+
+* Aplicativos computacionais
+
+* IA: Copilot, ChatGPT, Gemini, NotebookLM
+
+* Normas ABNT
+
+* Pacote Office: Word, Excel, PowerPoint
+
+* Design Canva
+
+* Visual Studio 2022/2026
+
+* Visual Studio Code
+
+* Github
+
+* Lógica de programação
+
+* MySQL
 
 - IA: Copilot, ChatGPT, Gemini, NotebookLM
 <div data-importer="techs" align="left">
